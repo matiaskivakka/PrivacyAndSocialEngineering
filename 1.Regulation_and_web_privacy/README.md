@@ -97,12 +97,12 @@ Let's look at the information about cookies on the Old School Runescape landing 
 <summary><strong>Use the Details tab of the cookie banner to answer the following</strong></summary>
 <br>
 
-* How many necessary cookies are there? 
-* What happens if you try to disable necessary cookies? 
-* List at least 6 different expiry times from the necessary cookies 
-* List 3 different cookie types from necessary cookies 
-* In Statistics, what are the expiry time and cookie type of **JXWEBUID** 
-* In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex 
+* How many necessary cookies are there? - 79 neccessarry cookies
+* What happens if you try to disable necessary cookies? - They cannot be deselected.
+* List at least 6 different expiry times from the necessary cookies. -Session, 1 day, persistent, 1 year, 1 month, 1 week.
+* List 3 different cookie types from necessary cookies. HTTP cookie, HTML local storage, pixel Tracker 
+* In Statistics, what are the expiry time and cookie type of **JXWEBUID** - 10 years expiry time and HTTP cookie
+* In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex. - Google, Youtube, Facebook, Twitter, Meta
 
 </details>
 
@@ -138,10 +138,14 @@ Run the test made by EFF. After running the test you will see a score for ‘Bit
 <br>
 
 * Return two categories and results where you had the *highest* and *lowest* amount of identifying bits of information.
+  - HTTP_ACCEPT HEADERS has highest bits with 10.31 and LANGUAGE with 8.85. lowest is in ARE COOKIES ENABLED with 0.1 and CPU CLASS with 0.09
 
-* Why does identifiability matter? 
+* Why does identifiability matter?
+  - It basically comes down to privacy. What I mean with that is that if I visit for example golf site with my unique browser, advertisers can point it out easily and give me golf related advertisements.
 
 * What pros and cons can you think of to being unique vs common?
+  - Unique pros is that websites probably are going to give me advertisements that are in my intrest. And cons are that there are not really privacy.
+  - Common pros is that you can blend in with everyone else. Cons are that websites may not trust as easily to your setup.
 
 </details>
 
@@ -158,9 +162,9 @@ What are your Screen width and Screen height similarity percentage? You may or m
 <summary><strong>Return similarity percentage and explanations of your results for:</strong></summary>
 <br>
 
-* Canvas + WebGL Data
-* Screen width, Screen height
-* Screen available width, Screen available height, Can you explain your result?
+* Canvas + WebGL Data 0.07% and 0.1%
+* Screen width, Screen height 19.98% and 18,92%
+* Screen available width, Screen available height, Can you explain your result? 3.34% and 19.24%. I most likely have basic screen on this computer.
 
 </details>
 
@@ -193,19 +197,19 @@ Captured traffic presents the following workflow:
 
 **Your work is to identify the following information about the user:**
 
-  * Browser
-  * Operating system
-  * Screen size
-  * Local language
-  * Browser language
-  * Region
-  * Timezone
-  * Search keyword
+  * Browser - Safari
+  * Operating system - Mac OS
+  * Screen size 1169x1800
+  * Local language English
+  * Browser language English
+  * Region FI
+  * Timezone - Europe/Helsinki
+  * Search keyword  pellesecurity
 
 You can reproduce the previous by capturing the HAR file yourself, and looking into the details if you want.
 
  > **Find the previos information. Also, describe shortly where this information is located and how and when it is carried to TikTok's servers.**
-
+- 21.02.2023 16:10:12.720, This is when it was carried to TikTok's servers. Located in Query String Parameters.
 ### Task 4 B) TikTok data obfuscation
 
 However, it appears that the previous details are not the only information TikTok is collecting.

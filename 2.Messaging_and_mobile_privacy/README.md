@@ -40,7 +40,78 @@ These encryptions allow users to quite easily have, for example, self-encrypted 
 ### **Task 1A)** Signing a message 1/4p
 
 Create a gpg keypair, create a message of your choice into a file named 'message.txt', then sign the message and **return both keys here**.
+mQINBGnCaXUBEADOVjagrcBHcDdC+IqnpTfEXUrOM8IskBMX4qpzxiIlWyFshuwh
+FY0H8MQdLONDAivejCn2bYHvBAXbt0CeVkXE2Y/ktdrKhlqEjD3k2O9nNl/W8Nnz
+Yo2u+EM3UTCN+162Vt3dIOG/ol40pnmSY0/ckCbzjpceG/oF8v3Mro2Cop4zbpde
+xIUJYVzaFNyFSPii//YMZXgp6jtm8pj0t2/afs7GUIoEsQ31WBaioPJl9u9L3T/1
+fiKAUs/C+y9+Qy0XJgdOv/5BmHg9q8x6nTeVi7E4vHJQiPXRdeGH8gzBMqy+qJZZ
+4sbGUS/ncD+Ix3PiQFol9nRn2zIliJ70ZlrMSlkcCaMRNn2mdNhJgc4o4fCnDToA
+UYC5tJzUxlZwOxmx7EVMQDVXtWbQOHqxe/BUWHCglKXSxWv4jCNvaxy980FSI0zT
+2nFdF7yY+mMz9Pago46371GmK94Qg0COQygnTcNFwR4hj+60h81WxA88RWqLe8MJ
+FrXIRtCnxhSLWSZaGbOLXvBY2LtSwzULR7TqHitl8Vp0DycHfGz8NtPZgCL9ynIC
+wgCynoSdeVi4jrp5fIy0mIeC84uhRy+T0caaSnSdiSNhBNJ266THLe0smWiLbMep
+UZKiPXXlxhM7aTmfyk0SBA1WVzRHkr5osj5SRgsj57jVLyELy6fy5PrKmwARAQAB
+tCZNYXRpYXMgKG5q4pScw7FpKSA8bWtpdmFra2FAZ21haWwuY29tPokCcwQTAQgA
+XRYhBEUo+kDd4prdgs3lC+EDq1RHm3CfBQJpwml1GxSAAAAAAAQADm1hbnUyLDIu
+NSsxLjEyLDIsMQIbAwUJAAFRgAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAK
+CRDhA6tUR5twn/h/D/0W3Wp0MKZ5dmWSJyNH2HTMTXHF0k3WDwrUt72Ly8EZtFp4
+2fAB5h/HRi+RS7xtkV+AVKVMzgy+46p6buiZOXdE1uSoQvPoGGYbNBM2HjIES7Wf
+zTl4jSjToY3HGJ2MhzzYwyyMA7BiFqMjLy+snDpFyY0gl+DzJSuFEcTMps7UujtY
+Ak7RQc0KiMks8gsqwhUV9eWKHson2qyTtEiqza9HHX4FegZw4GAdAYSFYyzqqb59
+CRSPUlXx2h/oIWq+y/K1hcjasl1pY6nW8Jo5lxA03H2zVkRao2CD6nBSCFSRCUPV
+nhhHeQAqlGIGPET7Bz/G4+28bU7sY3kfnd/0h28OspDJJs1hxJkfDkvl9Mq1noZS
+KXd0cmZxxxtotiCPXvYyuiujeUA9awDqu/4dRGSCQVDFynIQJDlyk7n5v4pHHIJ1
+/VPKbddVpRh/cKsc6hTas/cC1V4I1Ss9tp5I01sIlNXQ7uZX3Hy95nq8MgEdiFTv
+uHi2OMeEOGIKD9lpfDb8F+sEQ9rt4MZFANCBZOB60wiZZRTmOLXc8HWBmmmwhgrr
+xLyy1zJ7tMq126+LaV9TBFE1eCGb2+AEAjqQLfpGbkFYyh47BrRgaminlkmSWCWc
+h0IngkLMwe2YGOEPflTxFsKLQo+62y+ML1FQDvyXkMZR4Hbpz1qvYPRgwPj+l7kC
+DQRpwml1ARAAyEYQ74c4Kx7VZyQ9vr4xi7J4l87+7il+6j7OpVPC8U75yP5oz7tI
+eCRxQVh/xFG+LcfhCtjbN0CxbPwKnGplsqpb9DD2A7SC2F65+9cEhW/VHiDsbWyC
+iZkgFqephhXWpNo22+P/mb96JtXtWPT5oqy0BXZCnqve5OyDLxZojI7PfxRATJ8a
+vTLzUgIy5S/DK8dswzkBo8k6uWuICjQoVtPg+Lv67WQmEEGEH5YIqkELb6/Zw8bM
+K20259CmdsPj3viNBIh3WF0G/jAHrE+ypVG/opJ0U7vr0boVdkoJL8h/yBdJ+zvD
+VBW1NkPe13i3vliAxuXWLANZsubu0YTrVP6cU+3OrQcfWKWHvuR3/MQkSU4Q9tqI
+dy8MP9RqkE6IHNop2DdGPk4L6OzhJsXbHbbzuHnyaWvkmkmyjEuMWMlncjKPvx6M
+vuzIwsDNrHVmMam3f3l8T2MvxJwLa/NNlaVmdA2+0MVKhix6+CTgbOyh+FJ4na3w
+cYUN5php4hupQ7mfj9PK4OYeAiNbEcOaJ4h1UcibwuN0yU91laxih6oVVhvVGQpv
+rsME4wr8Ztuc8VbgpIMhE6dpyMv6aXS6iwus4DOIW1OispmBtQVN91+QtJ7wgN5v
+/ElQxLkHNPYyjx4kcNRp+Znw/H2ky+tIdjI1GCclN4sCE5AJj2FlOy8AEQEAAYkC
+WAQYAQgAQhYhBEUo+kDd4prdgs3lC+EDq1RHm3CfBQJpwml1GxSAAAAAAAQADm1h
+bnUyLDIuNSsxLjEyLDIsMQIbDAUJAAFRgAAKCRDhA6tUR5twn0vsEACX1/KHlGrV
+Bgy5t+Y3AnvYibnNFuT+eqoCGkwgvkyEDvUrCVwdSCU16jBFVeG5K8B8M36FHF7e
+kqCCdWLy3PUXW4t7oKRljZJGwGM8lySwttu71Z9QO3eddkS0ieezL+cmsM/aDvjv
+NxvwrFYr4I1Bw9PmxoCbpiPfKFL+5qfQhjuDvSUQzR2FyMrvkstisZ4ou/i8S7tB
+nBHmI1cK7wpKs8Ls2qAcAA6yYNoDMUlCIj3JubAp5vkuqRlEFE6BnvDSkFP60YJc
+wf7jJCHXbHKUiXOPXO2Jnbtc1wu+TQ+Nd3wuHRr20wECJ32UoDlE56Cb3dWaqg3T
+ZywSBb7zKj943bstE+Wz3EXsv0TAXtBAPPe9LMOx7q/iE15ouM0q9qvEIQZA/+9P
+9QFAOyeco649KzAoeXiy+weTRMNa01TiRTIiC7Bqg9x6FZIZ52ZrCBHaP3Ar1F2I
+xFqI3UMYCcmAjc1OKnU5Z8ewC3UI3gIa8K5QfZn1rF0Z1cPsDr1DwmVzk/yaF5x4
+AMgUqzAdFXLWZsALWzOj6c83g9fWVDeYxEPBuaNiLZHa/aDX/y/SKvtX+R2ZoJCi
+BcBnnNvpAorX1OlGDhoXPWLEzqDRkjO+9578QZrIBzqPO2p//YpW/qq60Xhzc8vd
+AlPXrkqw3DLZYmozugI8J2SDllLNPq/+uA==
+=oqEo
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+"TERETERE!"
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCAA5FiEERSj6QN3imt2CzeUL4QOrVEebcJ8FAmnCa5MbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMiwxAAoJEOEDq1RHm3CfbNgQAKZkVw62VjeiLsbx/iCE
++9mgMgqJ2QFB0nipdkJvTqjc5IEaYjy2hxP3yZ4pS0+65AOzYhgcYyYnCMaWq+sB
+f58gN3UoQp+xzXfkfAWELXwyzUqdlct9W01cXXMmnuIXZktb8tSFCSqSgPomv7Hj
+CiArx9J3vP769xNx/Ml9RN84h3wqWsdVRiqavfetkKWMk8BDPULEUgakP9VE5j/0
++oymrgoTUaR3S+7tWexY8C3TvrmiP5PL6hCflEbbJa8LZ1QzdVTjxQEc4nIxp0Dk
+A/ej/P7/cx7pRqbOKWE8O/ziCoclSO5LdZs4n2ViwjSwBcdIgFM0ynygDJXymDlx
+E1zUZyyfxW1x7H1Ss9HU+HotwjnplJDrXOw/teadDQhR1Bj4zbqIIxUUgSPDkOkw
+Bg+XzuUmpjgcOOmjiZbrhINmyKcu+LhoD5ehvg3jQvy5KrhenD23R0ODi1p3QsO4
+9DeAlWlZ6eaHP5j6eTxCaWW/HkobyMSTbF1D6iUgqvfzC6PWD8l7T56H0pdXPE20
+qz/13Cn+FkPM4RoiNBZ/6QlztygY0+ja/51OVQB90vNCqRA2bpHmMgbWQZNS1HWQ
+fCFEcbL2q2C78IyJB/BX8cse7kVzuyJPBNEunx2JtBqzgrNzHCJYz5zCOtiAjmea
+SB3jRSfj+zDJj/JgesQhesti
+=8IGS
+-----END PGP SIGNATURE-----
 > [!CAUTION]
 > NEVER upload your actual private keys in the internet and never share them with anyone else. This key is only used to confirm your keys.
 
@@ -55,15 +126,18 @@ Proceed to 1C.
 ### **Task 1C)** Verifying a message 3/4p
 
 Download the message in the "files" folder and verify the signature on it with the public key in the same folder. **Answer this part with the name of the owner** of said keys.
+Pelle Security
 
 Proceed to 1D.
 
 ### **Task 1D)** Questions 4/4p
 
 * What can be found out about the email you sent, by one who intercepted it in transit?
+Full name, email, time, IP address.
 * Does verifying the the message **guarantee** the senders identity?
+No.
 * Is the process of sending an email this way end-to-end-encrypted(E2EE)?
-
+Yes.
 <details><summary>Help</summary>
 <br>
 
@@ -149,13 +223,18 @@ Some services (especially image related) strip it off for your own safety, but t
 
 **Download [**image2**](images/image2.jpg?raw=true) and extract the following information from it**
 - GPS coordinates
+GPSLatitude: 65.05767059305555
+GPSLongitude: 25.46864318833333
 - Device manufacturer and the model the image has been taken with
+Huawei clt-l29
 - Date and time when the image has been originally taken
-
+12:15:59, 23.08.2022
 You can either use the EXIF tool of [CyberChef](https://gchq.github.io/CyberChef/#recipe=Extract_EXIF()) or install [Perl based tool on Arch Linux, for example](https://archlinux.org/packages/extra/any/perl-image-exiftool/).
 
 Then strip the image of the above-mentioned information and return the image. You can do this for example by using [CyberChef's Remove EXIF](https://gchq.github.io/CyberChef/#recipe=Remove_EXIF()) or  [**Imagemagick**](https://imagemagick.org/index.php).
 The image should not contain the above-mentioned information **in any form**.
+
+![alt text](image.png)
 
 For reference, here is [**image1**](images/image1.jpg?raw=true) as an example of a picture where the EXIF data has been stripped.
 
@@ -186,12 +265,25 @@ You can either use it on the browser or [in command-line.](https://github.com/Ex
 <summary><strong>Name your application and answer the following</strong></summary>
 <br>
 Name your application and answer the following questions for each application.
-
+APPLICATIONS: Spotify and TIKTOK
 1. How many trackers and permissions each application has?
+Spotify 7 and 45  and tiktok 11 and 49.
 2. How many "dangerous" (runtime) and/or "special" permissions does each have? (Red exclamation mark, see these in Google's guide [^14])
+Spotify 9 and tiktok 15
 3. Did the applications have permission to access such data they could use or sell for monetary gain? Which permissions and trackers are these?
+
+With spotify Location and Contacts combined with trackers like comscore are gathering information that can be sold for advertisement for example. And same with tiktok.
+
 4. Describe two attack vectors enabled by these permissions for each application, had an attacker gained access into the application and/or their database.
+
+Spotify record audio and readcontacts. Tiktok camera and record audio.
+
+Spotify recordaudio could be used to remotely listen to the user and contacts wise data would allow attackers to map other social activity. With Tiktok basically the same.
+
 5. Compare Android and iOS privacy labels (if it is available on both platforms) to your findings about trackers
+
+Scetchy app(LED torch light):1. 6 and 16. 2.  It requests camera, precise location and network location.3.  Flashlight app doesnt need your physical location anywhere. 4. Realtime stalking with the location and camera hijacking.
+
 
 </details>
 

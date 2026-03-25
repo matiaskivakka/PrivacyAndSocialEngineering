@@ -202,15 +202,28 @@ Without knowing the message content, can you deduce information from User A and 
 
 **Write an essay of atleast 300 words based on the previous sources and examples, including app comparison and considering also the importance of E2E encrypted metadata.**
 
+Everyone talks about "End-to-End Encryption" as the ultimate privacy feature for messaging apps. But when you look closely at apps like WhatsApp, Telegram, and Messenger, the true privacy isn't just about hiding your messages. It's also about what data these companies collect and how their default settings work.
+
+For example, Messenger collects a crazy amount of personal data. WhatsApp encrypts your messages, but it still collects a lot of "metadata," like your device info and who you talk to. A lot of people think Telegram is super secure, but it actually doesn't use E2EE by default—you have to manually start a "Secret Chat" to get it. Signal is the best option here according to internet, because it collects almost nothing and encrypts everything right out of the box.
+
+Default settings are a huge deal. Take WhatsApp for example: your messages might be secure when you send them, but if you back up your chats to Drive or iCloud, those backups usually aren't encrypted. If someone (like law enforcement) wants your messages, they don't have to hack WhatsApp, they can just get your cloud backup. People think that they're completely safe, but their backup settings basically leave everythin open.
+
+Even if your messages are completely locked down and you turn off backups, the metadata can still give you away. For instance, if you message someone every Thursday at 1 PM from a specific cafe, and they always reply 10 minutes later from their office before moving toward the cafe, someone looking at that data can easily guess you have a weekly meeting. They don't even need to read your texts to figure out your routine.
+
+That's why keeping metadata private is so important. It shows who we talk to, where we go, and what our habits are. When companies collect this info, they can build a complete profile on you without ever reading a single text. For an app to be truly private, it needs to encrypt your messages by default and stop collecting all that extra background info.
+
 Note also the use of the same phone number across different services. 
 For example, WhatsApp shares phone numbers and other information with Meta Company outside of the European Union [^6].
 What does this mean in the context of social graphs and the accuracy of possible behaviour and knowledge modelling?
 
 **Write one paragraph of your thoughts.**
+Using the same phone number everywhere acts like a key that links your entire digital life together. When WhatsApp shares your number with the rest of Meta, they can instantly connect your private texting habits to your Facebook and Instagram profiles. In terms of your "social graph" the map of everyone you interact with this is a huge deal because Meta suddenly knows your online friends, your closest offline contacts, family, and coworkers. By combining the metadata of who you text and like on social media, their ability to track and predict your behavior becomes scary accurate. They don't even need to read your encrypted messages to figure out exactly what you're into or what your routines are.
 
 Additionally, what privacy risks "last seen" or showing "online status" can include? Imagine a situation, where someone who has the same contact list as you have, automates to process of checking the online status of every contact for every second and finally stores this information for a longer period.
 
 **Write one paragraph of your thoughts.**
+Leaving your "last seen" or "online status"
+Leaving your "last seen" or "online status" visible might seem harmless, but it actually creates a massive privacy leak if someone decides to exploit it. If someone was to use a simple script to record exactly when everyone in their contact list is online 24/7, they can put together incredibly personal details without ever reading a single message. Within weeks or months they could know for example your sleep schdeule and who are you texting back and fourth late in the evening.
 
 ### **Task 2 B)** Image metadata
 

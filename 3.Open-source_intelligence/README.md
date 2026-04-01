@@ -38,13 +38,33 @@ Search for ***joe@gmail.com*** on Have I been Pwned, and...
 <br>
 
 In how many <strong>data breaches</strong> and <strong>pastes</strong> can this email be found?
+321 and 96
 
 What are the <strong>compromised data types</strong> in the following services? (answer each separately)
 
-- <strong>Bell</strong>
-- <strong>Drizly</strong>
-- <strong>Robinhood</strong>
 
+- <strong>Bell</strong>
+Email addresses
+Geographic locations
+IP addresses
+Job titles
+Names
+Passwords
+Phone numbers
+Spoken languages
+Survey results
+Usernames
+- <strong>Drizly</strong>
+Dates of birth
+Device information
+Email addresses
+IP addresses
+Names
+Passwords
+Phone numbers
+Physical addresses
+- <strong>Robinhood</strong>
+Email addresses
 </details>
 
 > While you are at it you might want to check if **your own email addresses** have been associated with any data leaks, and promptly change your password in these services.
@@ -62,7 +82,9 @@ As a result, for example, sometimes you need to verify the email address before 
 On the other hand, some other services distribute all breach data content, as paid services.
 As the information is highly valuable for some entities, these entities will pay for the data, and platform providers will run the services until law enforcement will shut them down.
 
-1. **Find at least three of these paid services and list them.**
+1. **Find at least three of these paid services and list them.** 
+
+DeHashed, Intelligence X ja Genesis Market
 
 *Consider the problems of breach data as follows*. 
 
@@ -81,6 +103,7 @@ Or do we make a compromise, and try to remove only the most damaging breaches fr
 
 2. **Write a short answer (150-200 words) of your thoughts. There might not be a correct or incorrect answer, but you need to make arguments.**
 
+Making all breach data publicly searchable for everyone is very dangerous. It would work as information for every scammer and stalker for example. However, pretending that we could completely remove branch data from internet is also very far fetched strategy. Once a data is leaked, the spread of it is permanent. The most practical approach is highly regulated transparency model. Building platforms and forums where strictly verified individuals can see precisely what data of theirs was leaked or exposed. Ens users have a right to know exactly what was stolen. Wheter it was a simple password or credit card information. And right to know that so they can take immediately defensive measures like freezing the credit card information.
 ---
 
 ## **Task 2:** Hardcoded Passwords
@@ -88,11 +111,16 @@ Or do we make a compromise, and try to remove only the most damaging breaches fr
 There have been a few cases of compromised systems due to hardcoded passwords and API keys accidentally ending up in production code. [Google offers some advice on how to handle such information more securely](https://cloud.google.com/docs/authentication/api-keys)
 
 1.  Use Hex-Rays decompiler via [Dogbolt](https://dogbolt.org/) to check out if you can find a **plaintext hardcoded password** from the provided compiled C code file called **secretKey**. 
+Vulture35Vulture
 
 2. As a second part, there is a secret **Activation Key** for you to figure out, which has validation arguments that can be seen with some closer inspection of the decompiler.
+must be > 59347700
+less or equal to 59347970
+sum of digts must be 44
 
 3. As a third and last part, there is a **Super secret password** that is hardcoded but has been "encrypted" with a secret hash.
 
+4dc9332ca3bbc59c880fd2cbe7ec1b7ca171cc82
 
 In case the site is under maintenance, there is a HexRaysOutput file, which has the full output of the decompilation process.
 Use an editor that can understand `C++` to inspect the file with proper highlighting.
@@ -105,11 +133,15 @@ After completing the task, you have five items to return.
 <summary><strong>What to return:</strong></summary>
 <br>
 
-Return a valid <strong>Password</strong> and  
-<strong>One valid activation key</strong> and  
-The <strong>instructions</strong> on how to create the rest of the activation keys, since there are multiple valid ones.  
+Return a valid <strong>Password</strong>
+Vulture35Vulture 
+and  
+<strong>One valid activation key  59347718 
+</strong> and  
+The <strong>instructions</strong> on how to create the rest of the activation keys, since there are multiple valid ones.  first 5 numbers must be 59347 and rest 3 needs to sum to 16 no matter in what order. for example 709 or 907
 Also, return the <strong>plaintext version of the super secret password</strong> and <strong>the name of the hash function</strong> it was created with.   
 You can use for example https://crackstation.net/ to decode the password.
+Vulture99 and SHA-1
 
 </details>
 
